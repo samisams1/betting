@@ -1,0 +1,117 @@
+# ------------------------------------------------------
+# THIS FILE WAS AUTOMATICALLY GENERATED (DO NOT MODIFY)
+# ------------------------------------------------------
+
+type Country {
+  _id: ID!
+  createdAt: String!
+  updatedAt: String!
+  name: String!
+  code: String
+  flag: String
+  order: Float!
+  leagues: [League!]!
+}
+
+type League {
+  _id: ID!
+  createdAt: String!
+  updatedAt: String!
+  id: String!
+  name: String!
+  type: String!
+  logo: String!
+  country: String!
+  current: Boolean!
+  round: String
+  isTop: Boolean!
+  order: Float!
+  fixtures: [Fixture!]!
+}
+
+type Bet {
+  id: Float!
+  name: String!
+  values: [Value!]!
+}
+
+type Value {
+  value: String!
+  odd: String!
+}
+
+type Odd {
+  _id: ID!
+  createdAt: String!
+  updatedAt: String!
+  league: Float!
+  fixture: Float!
+  bookmaker: Float!
+  bets: [Bet!]!
+}
+
+type Period {
+  first: Float
+  second: Float
+}
+
+type Team {
+  id: Float!
+  name: String!
+  logo: String!
+}
+
+type Goal {
+  home: Float
+  away: Float
+}
+
+type Score {
+  halftime: Goal!
+  fulltime: Goal!
+  extratime: Goal!
+  penality: Goal!
+}
+
+type Teams {
+  home: Team!
+  away: Team!
+}
+
+type Fixture {
+  _id: ID!
+  createdAt: String!
+  updatedAt: String!
+  id: String!
+  referee: String!
+  timezone: String!
+  date: String!
+  timestamp: String!
+  periods: Period!
+  league: Float!
+  status: String!
+  teams: Teams!
+  goals: Goal!
+  score: Score!
+  odds: [Odd!]
+}
+
+type Basic {
+  countries: [Country!]!
+  liveFixtures: [Fixture!]!
+  topFixtures: [Fixture!]!
+}
+
+type Query {
+  countries: [Country!]!
+  country(name: String!): Country!
+  leagues: [League!]!
+  league(id: String!): League!
+  basic: Basic!
+  liveFixtures: [Fixture!]!
+  topFixtures: [Fixture!]!
+  fixtures: [Fixture!]!
+  fixture(id: String!): Fixture!
+  odds: [Odd!]!
+  odd(id: String!): Odd!
+}

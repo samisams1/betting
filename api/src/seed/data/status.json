@@ -1,0 +1,22 @@
+{
+  "get": "status",
+  "parameters": [],
+  "errors": [],
+  "results": 1,
+  "response": {
+    "account": {
+      "firstname": "Ezedin",
+      "lastname": "Fedlu",
+      "email": "ezedinfedlu@gmail.com"
+    },
+    "subscription": {
+      "plan": "Free",
+      "end": "2021-05-17T00:00:00+00:00",
+      "active": true
+    },
+    "requests": {
+      "current": 11,
+      "limit_day": 100
+    }
+  }
+}

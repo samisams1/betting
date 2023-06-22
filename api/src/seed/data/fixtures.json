@@ -1,0 +1,3052 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "date": "2020-06-15",
+    "status": "NS",
+    "timezone": "Africa/Addis_Ababa"
+  },
+  "errors": [],
+  "results": 46,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "fixture": {
+        "id": 235746,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:00:00+03:00",
+        "timestamp": 1592226000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2479,
+          "name": "Gyumri City Stadium",
+          "city": "Gyumri"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia",
+        "logo": "https://media.api-sports.io/football/leagues/343.png",
+        "flag": "https://media.api-sports.io/flags/am.svg",
+        "season": 2019,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 3697,
+          "name": "Shirak II",
+          "logo": "https://media.api-sports.io/football/teams/3697.png"
+        },
+        "away": {
+          "id": 6281,
+          "name": "Lernayin Artsakh",
+          "logo": "https://media.api-sports.io/football/teams/6281.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 326942,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:00:00+03:00",
+        "timestamp": 1592226000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3224,
+          "name": "Stadion Surkhon",
+          "city": "Termez"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 369,
+        "name": "Super League",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/leagues/369.png",
+        "flag": "https://media.api-sports.io/flags/uz.svg",
+        "season": 2020,
+        "round": "Regular Season - 4"
+      },
+      "teams": {
+        "home": {
+          "id": 4225,
+          "name": "Surkhon",
+          "logo": "https://media.api-sports.io/football/teams/4225.png"
+        },
+        "away": {
+          "id": 4213,
+          "name": "Mash'al",
+          "logo": "https://media.api-sports.io/football/teams/4213.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235749,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:30:00+03:00",
+        "timestamp": 1592227800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2481,
+          "name": "Sports Complex Dzoraghbyur",
+          "city": "Dzoraghbyur"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia",
+        "logo": "https://media.api-sports.io/football/leagues/343.png",
+        "flag": "https://media.api-sports.io/flags/am.svg",
+        "season": 2019,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 6283,
+          "name": "Masis",
+          "logo": "https://media.api-sports.io/football/teams/6283.png"
+        },
+        "away": {
+          "id": 3688,
+          "name": "Ararat II",
+          "logo": "https://media.api-sports.io/football/teams/3688.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235753,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:30:00+03:00",
+        "timestamp": 1592227800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2480,
+          "name": "Pyunik Training Centre",
+          "city": "Yerevan"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 343,
+        "name": "First League",
+        "country": "Armenia",
+        "logo": "https://media.api-sports.io/football/leagues/343.png",
+        "flag": "https://media.api-sports.io/flags/am.svg",
+        "season": 2019,
+        "round": "Regular Season - 26"
+      },
+      "teams": {
+        "home": {
+          "id": 3687,
+          "name": "Alashkert II",
+          "logo": "https://media.api-sports.io/football/teams/3687.png"
+        },
+        "away": {
+          "id": 6286,
+          "name": "Van",
+          "logo": "https://media.api-sports.io/football/teams/6286.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 326941,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:30:00+03:00",
+        "timestamp": 1592227800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadion im. Bahrom Vafoyev",
+          "city": "Mubarek"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 369,
+        "name": "Super League",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/leagues/369.png",
+        "flag": "https://media.api-sports.io/flags/uz.svg",
+        "season": 2020,
+        "round": "Regular Season - 4"
+      },
+      "teams": {
+        "home": {
+          "id": 4211,
+          "name": "Buxoro",
+          "logo": "https://media.api-sports.io/football/teams/4211.png"
+        },
+        "away": {
+          "id": 4209,
+          "name": "Andijan",
+          "logo": "https://media.api-sports.io/football/teams/4209.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 562775,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T16:30:00+03:00",
+        "timestamp": 1592227800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1755,
+          "name": "Stadion Nairi",
+          "city": "Yerevan"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 342,
+        "name": "Premier League",
+        "country": "Armenia",
+        "logo": "https://media.api-sports.io/football/leagues/342.png",
+        "flag": "https://media.api-sports.io/flags/am.svg",
+        "season": 2019,
+        "round": "Championship Round - 5"
+      },
+      "teams": {
+        "home": {
+          "id": 3684,
+          "name": "Artsakh",
+          "logo": "https://media.api-sports.io/football/teams/3684.png"
+        },
+        "away": {
+          "id": 3683,
+          "name": "Ararat-Armenia",
+          "logo": "https://media.api-sports.io/football/teams/3683.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 326943,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T17:00:00+03:00",
+        "timestamp": 1592229600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadion Lokomotiv",
+          "city": "Tashkent"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 369,
+        "name": "Super League",
+        "country": "Uzbekistan",
+        "logo": "https://media.api-sports.io/football/leagues/369.png",
+        "flag": "https://media.api-sports.io/flags/uz.svg",
+        "season": 2020,
+        "round": "Regular Season - 4"
+      },
+      "teams": {
+        "home": {
+          "id": 3695,
+          "name": "Lokomotiv",
+          "logo": "https://media.api-sports.io/football/teams/3695.png"
+        },
+        "away": {
+          "id": 4214,
+          "name": "Metalourg",
+          "logo": "https://media.api-sports.io/football/teams/4214.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 167858,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2511,
+          "name": "eFotbal aréna",
+          "city": "Praha"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 346,
+        "name": "FNL",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/leagues/346.png",
+        "flag": "https://media.api-sports.io/flags/cz.svg",
+        "season": 2019,
+        "round": "Regular Season - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 3729,
+          "name": "Viktoria Žižkov",
+          "logo": "https://media.api-sports.io/football/teams/3729.png"
+        },
+        "away": {
+          "id": 3727,
+          "name": "Třinec",
+          "logo": "https://media.api-sports.io/football/teams/3727.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 167863,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3253,
+          "name": "Stadion Evžena Rošického",
+          "city": "Praha"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 346,
+        "name": "FNL",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/leagues/346.png",
+        "flag": "https://media.api-sports.io/flags/cz.svg",
+        "season": 2019,
+        "round": "Regular Season - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 4258,
+          "name": "Slavoj Vyšehrad",
+          "logo": "https://media.api-sports.io/football/teams/4258.png"
+        },
+        "away": {
+          "id": 3723,
+          "name": "Hradec Králové",
+          "logo": "https://media.api-sports.io/football/teams/3723.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235995,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2,
+          "name": "Elbasan Arena",
+          "city": "Elbasan"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 310,
+        "name": "Superliga",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/leagues/310.png",
+        "flag": "https://media.api-sports.io/flags/al.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 577,
+          "name": "FK Kukesi",
+          "logo": "https://media.api-sports.io/football/teams/577.png"
+        },
+        "away": {
+          "id": 3317,
+          "name": "Flamurtari",
+          "logo": "https://media.api-sports.io/football/teams/3317.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235997,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1966,
+          "name": "Stadiumi Loro Boriçi",
+          "city": "Shkodër"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 310,
+        "name": "Superliga",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/leagues/310.png",
+        "flag": "https://media.api-sports.io/flags/al.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 3339,
+          "name": "Vllaznia Shkodër",
+          "logo": "https://media.api-sports.io/football/teams/3339.png"
+        },
+        "away": {
+          "id": 3325,
+          "name": "Bylis",
+          "logo": "https://media.api-sports.io/football/teams/3325.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 331914,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2160,
+          "name": "Stadiumi Loni Papuçiu",
+          "city": "Fieri"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 311,
+        "name": "1st Division",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/leagues/311.png",
+        "flag": "https://media.api-sports.io/flags/al.svg",
+        "season": 2019,
+        "round": "Promotion Round - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 3321,
+          "name": "Apolonia Fier",
+          "logo": "https://media.api-sports.io/football/teams/3321.png"
+        },
+        "away": {
+          "id": 3332,
+          "name": "Lushnja",
+          "logo": "https://media.api-sports.io/football/teams/3332.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563450,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3169,
+          "name": "Stadions Celtnieks",
+          "city": "Daugavpils"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 365,
+        "name": "Virsliga",
+        "country": "Latvia",
+        "logo": "https://media.api-sports.io/football/leagues/365.png",
+        "flag": "https://media.api-sports.io/flags/lv.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 4149,
+          "name": "BFC Daugavpils",
+          "logo": "https://media.api-sports.io/football/teams/4149.png"
+        },
+        "away": {
+          "id": 661,
+          "name": "FK Liepaja",
+          "logo": "https://media.api-sports.io/football/teams/661.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563451,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:00:00+03:00",
+        "timestamp": 1592233200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadions Arkādija grass",
+          "city": "Riga"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 365,
+        "name": "Virsliga",
+        "country": "Latvia",
+        "logo": "https://media.api-sports.io/football/leagues/365.png",
+        "flag": "https://media.api-sports.io/flags/lv.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 4160,
+          "name": "Rīgas FS",
+          "logo": "https://media.api-sports.io/football/teams/4160.png"
+        },
+        "away": {
+          "id": 707,
+          "name": "FK Ventspils",
+          "logo": "https://media.api-sports.io/football/teams/707.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 166775,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T18:30:00+03:00",
+        "timestamp": 1592235000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2912,
+          "name": "SRC Kolubara",
+          "city": "Lazarevac"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 287,
+        "name": "Prva Liga",
+        "country": "Serbia",
+        "logo": "https://media.api-sports.io/football/leagues/287.png",
+        "flag": "https://media.api-sports.io/flags/rs.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 2636,
+          "name": "Kolubara",
+          "logo": "https://media.api-sports.io/football/teams/2636.png"
+        },
+        "away": {
+          "id": 2652,
+          "name": "FK Zlatibor",
+          "logo": "https://media.api-sports.io/football/teams/2652.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 167864,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T19:00:00+03:00",
+        "timestamp": 1592236800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2514,
+          "name": "Městský fotbalový stadion Srbská",
+          "city": "Brno"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 346,
+        "name": "FNL",
+        "country": "Czech-Republic",
+        "logo": "https://media.api-sports.io/football/leagues/346.png",
+        "flag": "https://media.api-sports.io/flags/cz.svg",
+        "season": 2019,
+        "round": "Regular Season - 23"
+      },
+      "teams": {
+        "home": {
+          "id": 3733,
+          "name": "Zbrojovka Brno",
+          "logo": "https://media.api-sports.io/football/teams/3733.png"
+        },
+        "away": {
+          "id": 3731,
+          "name": "Vysočina Jihlava",
+          "logo": "https://media.api-sports.io/football/teams/3731.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235996,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T19:00:00+03:00",
+        "timestamp": 1592236800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2155,
+          "name": "Stadiumi Skënderbeu",
+          "city": "Korçë"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 310,
+        "name": "Superliga",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/leagues/310.png",
+        "flag": "https://media.api-sports.io/flags/al.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 605,
+          "name": "Skenderbeu Korce",
+          "logo": "https://media.api-sports.io/football/teams/605.png"
+        },
+        "away": {
+          "id": 2256,
+          "name": "Laci",
+          "logo": "https://media.api-sports.io/football/teams/2256.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 562875,
+        "referee": "G. Kominis",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T19:30:00+03:00",
+        "timestamp": 1592238600,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 766,
+          "name": "Stadio Theodoros Kolokotronis",
+          "city": "Tripoli"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 197,
+        "name": "Super League",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/leagues/197.png",
+        "flag": "https://media.api-sports.io/flags/gr.svg",
+        "season": 2019,
+        "round": "Relegation Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 955,
+          "name": "Asteras Tripolis",
+          "logo": "https://media.api-sports.io/football/teams/955.png"
+        },
+        "away": {
+          "id": 622,
+          "name": "Panionios",
+          "logo": "https://media.api-sports.io/football/teams/622.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 331815,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T19:45:00+03:00",
+        "timestamp": 1592239500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Netanya Stadium",
+          "city": "Netanya"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 383,
+        "name": "Ligat ha'Al",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/383.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Relegation Round - 3"
+      },
+      "teams": {
+        "home": {
+          "id": 4505,
+          "name": "Maccabi Netanya",
+          "logo": "https://media.api-sports.io/football/teams/4505.png"
+        },
+        "away": {
+          "id": 4508,
+          "name": "Bnei Yehuda",
+          "logo": "https://media.api-sports.io/football/teams/4508.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 327932,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1308,
+          "name": "Stadionul Marin Anastasovici",
+          "city": "Giurgiu"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 283,
+        "name": "Liga I",
+        "country": "Romania",
+        "logo": "https://media.api-sports.io/football/leagues/283.png",
+        "flag": "https://media.api-sports.io/flags/ro.svg",
+        "season": 2019,
+        "round": "Championship Round - 3"
+      },
+      "teams": {
+        "home": {
+          "id": 636,
+          "name": "FC Astra Giurgiu",
+          "logo": "https://media.api-sports.io/football/teams/636.png"
+        },
+        "away": {
+          "id": 2577,
+          "name": "GAZ Metan Medias",
+          "logo": "https://media.api-sports.io/football/teams/2577.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 562876,
+        "referee": "M. Skoulas",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 778,
+          "name": "Stadio Panetolikou",
+          "city": "Agrinio"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 197,
+        "name": "Super League",
+        "country": "Greece",
+        "logo": "https://media.api-sports.io/football/leagues/197.png",
+        "flag": "https://media.api-sports.io/flags/gr.svg",
+        "season": 2019,
+        "round": "Relegation Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 949,
+          "name": "Panetolikos",
+          "logo": "https://media.api-sports.io/football/teams/949.png"
+        },
+        "away": {
+          "id": 953,
+          "name": "Larisa",
+          "logo": "https://media.api-sports.io/football/teams/953.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563407,
+        "referee": "A. Ekberg",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1513,
+          "name": "Olympia",
+          "city": "Helsingborg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 113,
+        "name": "Allsvenskan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/leagues/113.png",
+        "flag": "https://media.api-sports.io/flags/se.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 811,
+          "name": "Helsingborg",
+          "logo": "https://media.api-sports.io/football/teams/811.png"
+        },
+        "away": {
+          "id": 2171,
+          "name": "Varbergs BoIS FC",
+          "logo": "https://media.api-sports.io/football/teams/2171.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563408,
+        "referee": "K. Sjöberg",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1508,
+          "name": "Falcon Alkoholfri Arena",
+          "city": "Falkenberg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 113,
+        "name": "Allsvenskan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/leagues/113.png",
+        "flag": "https://media.api-sports.io/flags/se.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 812,
+          "name": "falkenbergs FF",
+          "logo": "https://media.api-sports.io/football/teams/812.png"
+        },
+        "away": {
+          "id": 367,
+          "name": "BK Hacken",
+          "logo": "https://media.api-sports.io/football/teams/367.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563409,
+        "referee": "K. Karlsson",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1518,
+          "name": "Eleda Stadion",
+          "city": "Malmö"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 113,
+        "name": "Allsvenskan",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/leagues/113.png",
+        "flag": "https://media.api-sports.io/flags/se.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 375,
+          "name": "Malmo FF",
+          "logo": "https://media.api-sports.io/football/teams/375.png"
+        },
+        "away": {
+          "id": 2240,
+          "name": "Mjallby AIF",
+          "logo": "https://media.api-sports.io/football/teams/2240.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563620,
+        "referee": "A. Uslu",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 459,
+          "name": "JYSK park",
+          "city": "Silkeborg"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 119,
+        "name": "Superligaen",
+        "country": "Denmark",
+        "logo": "https://media.api-sports.io/football/leagues/119.png",
+        "flag": "https://media.api-sports.io/flags/dk.svg",
+        "season": 2019,
+        "round": "Relegation Round - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 2073,
+          "name": "Silkeborg",
+          "logo": "https://media.api-sports.io/football/teams/2073.png"
+        },
+        "away": {
+          "id": 405,
+          "name": "Odense",
+          "logo": "https://media.api-sports.io/football/teams/405.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563661,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3409,
+          "name": "Yankele Grundman Stadium",
+          "city": "Ramat-ha’Sharon"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Promotion Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4490,
+          "name": "Hapoel Ramat HaSharon",
+          "logo": "https://media.api-sports.io/football/teams/4490.png"
+        },
+        "away": {
+          "id": 4480,
+          "name": "Beitar Tel Aviv Ramla",
+          "logo": "https://media.api-sports.io/football/teams/4480.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563662,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2610,
+          "name": "National Stadium Ramat Gan",
+          "city": "Ramat Gan"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Promotion Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4489,
+          "name": "Hapoel Ramat Gan",
+          "logo": "https://media.api-sports.io/football/teams/4489.png"
+        },
+        "away": {
+          "id": 4481,
+          "name": "Bnei Sakhnin",
+          "logo": "https://media.api-sports.io/football/teams/4481.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563663,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3406,
+          "name": "Lod Municipal Stadium",
+          "city": "Bnei-Lod"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Promotion Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4493,
+          "name": "Kafr Qasim",
+          "logo": "https://media.api-sports.io/football/teams/4493.png"
+        },
+        "away": {
+          "id": 4486,
+          "name": "Hapoel Katamon",
+          "logo": "https://media.api-sports.io/football/teams/4486.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563664,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "HaMoshava Stadium",
+          "city": "Petach-Tikva"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Promotion Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4495,
+          "name": "Maccabi Petah Tikva",
+          "logo": "https://media.api-sports.io/football/teams/4495.png"
+        },
+        "away": {
+          "id": 4491,
+          "name": "Hapoel Rishon LeZion",
+          "logo": "https://media.api-sports.io/football/teams/4491.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563690,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3413,
+          "name": "Ilut Stadium",
+          "city": "Ilut"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Relegation Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4494,
+          "name": "Maccabi Ahi Nazareth",
+          "logo": "https://media.api-sports.io/football/teams/4494.png"
+        },
+        "away": {
+          "id": 4483,
+          "name": "Hapoel Afula",
+          "logo": "https://media.api-sports.io/football/teams/4483.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563691,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3405,
+          "name": "Sela Stadium",
+          "city": "Ashkelon"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Relegation Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4484,
+          "name": "Hapoel Ashkelon",
+          "logo": "https://media.api-sports.io/football/teams/4484.png"
+        },
+        "away": {
+          "id": 4487,
+          "name": "Hapoel Nazareth Illit",
+          "logo": "https://media.api-sports.io/football/teams/4487.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563692,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:00:00+03:00",
+        "timestamp": 1592240400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3402,
+          "name": "Doha Stadium",
+          "city": "Sakhnin"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 382,
+        "name": "Liga Leumit",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/382.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Relegation Round - 2"
+      },
+      "teams": {
+        "home": {
+          "id": 4492,
+          "name": "Hapoel Umm al-Fahm",
+          "logo": "https://media.api-sports.io/football/teams/4492.png"
+        },
+        "away": {
+          "id": 4488,
+          "name": "Hapoel Petah Tikva",
+          "logo": "https://media.api-sports.io/football/teams/4488.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 563452,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:15:00+03:00",
+        "timestamp": 1592241300,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Stadions Skonto",
+          "city": "Riga"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 365,
+        "name": "Virsliga",
+        "country": "Latvia",
+        "logo": "https://media.api-sports.io/football/leagues/365.png",
+        "flag": "https://media.api-sports.io/flags/lv.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 10124,
+          "name": "Riga",
+          "logo": "https://media.api-sports.io/football/teams/10124.png"
+        },
+        "away": {
+          "id": 4153,
+          "name": "Valmiera / BSS",
+          "logo": "https://media.api-sports.io/football/teams/4153.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 214307,
+        "referee": "Alejandro Hernández",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:30:00+03:00",
+        "timestamp": 1592242200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 6495,
+          "name": "Estadio Camilo Cano",
+          "city": "La Nucía"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "Primera Division",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 539,
+          "name": "Levante",
+          "logo": "https://media.api-sports.io/football/teams/539.png"
+        },
+        "away": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 214761,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:30:00+03:00",
+        "timestamp": 1592242200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 3708,
+          "name": "Estadio El Toralín",
+          "city": "Ponferrada"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 141,
+        "name": "Segunda Division",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/141.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2019,
+        "round": "Regular Season - 33"
+      },
+      "teams": {
+        "home": {
+          "id": 4907,
+          "name": "Ponferradina",
+          "logo": "https://media.api-sports.io/football/teams/4907.png"
+        },
+        "away": {
+          "id": 797,
+          "name": "Elche",
+          "logo": "https://media.api-sports.io/football/teams/797.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 480333,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:30:00+03:00",
+        "timestamp": 1592242200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 7979,
+          "name": "Österåkers Friidrottsarena",
+          "city": "Åkersberga"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 593,
+        "name": "Division 2 - Norra Svealand",
+        "country": "Sweden",
+        "logo": "https://media.api-sports.io/football/leagues/593.png",
+        "flag": "https://media.api-sports.io/flags/se.svg",
+        "season": 2020,
+        "round": "Norra Svealand - 14"
+      },
+      "teams": {
+        "home": {
+          "id": 12581,
+          "name": "IFK Österåker",
+          "logo": "https://media.api-sports.io/football/teams/12581.png"
+        },
+        "away": {
+          "id": 12585,
+          "name": "Stockholm Internazionale",
+          "logo": "https://media.api-sports.io/football/teams/12585.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 331845,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T20:45:00+03:00",
+        "timestamp": 1592243100,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Bloomfield Stadium",
+          "city": "Tel-Aviv"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 383,
+        "name": "Ligat ha'Al",
+        "country": "Israel",
+        "logo": "https://media.api-sports.io/football/leagues/383.png",
+        "flag": "https://media.api-sports.io/flags/il.svg",
+        "season": 2019,
+        "round": "Championship Round - 4"
+      },
+      "teams": {
+        "home": {
+          "id": 604,
+          "name": "Maccabi Tel Aviv",
+          "logo": "https://media.api-sports.io/football/teams/604.png"
+        },
+        "away": {
+          "id": 563,
+          "name": "Hapoel Beer Sheva",
+          "logo": "https://media.api-sports.io/football/teams/563.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 212353,
+        "referee": "João Bento",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:00:00+03:00",
+        "timestamp": 1592244000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estádio dos Barreiros",
+          "city": "Ilha da Madeira"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png",
+        "flag": "https://media.api-sports.io/flags/pt.svg",
+        "season": 2019,
+        "round": "Regular Season - 27"
+      },
+      "teams": {
+        "home": {
+          "id": 214,
+          "name": "Maritimo",
+          "logo": "https://media.api-sports.io/football/teams/214.png"
+        },
+        "away": {
+          "id": 762,
+          "name": "GIL Vicente",
+          "logo": "https://media.api-sports.io/football/teams/762.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 216198,
+        "referee": "A. Bitigen",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:00:00+03:00",
+        "timestamp": 1592244000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1589,
+          "name": "Yeni Sivas 4 Eylül Stadyumu",
+          "city": "Sivas"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 203,
+        "name": "Super Lig",
+        "country": "Turkey",
+        "logo": "https://media.api-sports.io/football/leagues/203.png",
+        "flag": "https://media.api-sports.io/flags/tr.svg",
+        "season": 2019,
+        "round": "Regular Season - 27"
+      },
+      "teams": {
+        "home": {
+          "id": 1002,
+          "name": "Sivasspor",
+          "logo": "https://media.api-sports.io/football/teams/1002.png"
+        },
+        "away": {
+          "id": 3570,
+          "name": "Denizlispor",
+          "logo": "https://media.api-sports.io/football/teams/3570.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 235994,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:00:00+03:00",
+        "timestamp": 1592244000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 2159,
+          "name": "Stadiumi Niko Dovana",
+          "city": "Durrës"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 310,
+        "name": "Superliga",
+        "country": "Albania",
+        "logo": "https://media.api-sports.io/football/leagues/310.png",
+        "flag": "https://media.api-sports.io/flags/al.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 3320,
+          "name": "Teuta Durrës",
+          "logo": "https://media.api-sports.io/football/teams/3320.png"
+        },
+        "away": {
+          "id": 694,
+          "name": "Tirana",
+          "logo": "https://media.api-sports.io/football/teams/694.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 315519,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:00:00+03:00",
+        "timestamp": 1592244000,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 831,
+          "name": "Víkingsvöllur",
+          "city": "Reykjavík"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 164,
+        "name": "Premier",
+        "country": "Iceland",
+        "logo": "https://media.api-sports.io/football/leagues/164.png",
+        "flag": "https://media.api-sports.io/flags/is.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 278,
+          "name": "Vikingur Reykjavik",
+          "logo": "https://media.api-sports.io/football/teams/278.png"
+        },
+        "away": {
+          "id": 273,
+          "name": "Fjolnir",
+          "logo": "https://media.api-sports.io/football/teams/273.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 209465,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:30:00+03:00",
+        "timestamp": 1592245800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 697,
+          "name": "SchücoArena",
+          "city": "Bielefeld"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 79,
+        "name": "Bundesliga 2",
+        "country": "Germany",
+        "logo": "https://media.api-sports.io/football/leagues/79.png",
+        "flag": "https://media.api-sports.io/flags/de.svg",
+        "season": 2019,
+        "round": "Regular Season - 28"
+      },
+      "teams": {
+        "home": {
+          "id": 188,
+          "name": "Arminia Bielefeld",
+          "logo": "https://media.api-sports.io/football/teams/188.png"
+        },
+        "away": {
+          "id": 183,
+          "name": "Dynamo Dresden",
+          "logo": "https://media.api-sports.io/football/teams/183.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 491008,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T21:30:00+03:00",
+        "timestamp": 1592245800,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 609,
+          "name": "Gundadalur",
+          "city": "Tórshavn, Streymoy"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 366,
+        "name": "1. Deild",
+        "country": "Faroe-Islands",
+        "logo": "https://media.api-sports.io/football/leagues/366.png",
+        "flag": "https://media.api-sports.io/flags/fo.svg",
+        "season": 2020,
+        "round": "Regular Season - 8"
+      },
+      "teams": {
+        "home": {
+          "id": 4179,
+          "name": "HB II",
+          "logo": "https://media.api-sports.io/football/teams/4179.png"
+        },
+        "away": {
+          "id": 4185,
+          "name": "B36 II",
+          "logo": "https://media.api-sports.io/football/teams/4185.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 315521,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T22:15:00+03:00",
+        "timestamp": 1592248500,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 829,
+          "name": "Samsung völlurinn",
+          "city": "Garðabær"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 164,
+        "name": "Premier",
+        "country": "Iceland",
+        "logo": "https://media.api-sports.io/football/leagues/164.png",
+        "flag": "https://media.api-sports.io/flags/is.svg",
+        "season": 2020,
+        "round": "Regular Season - 1"
+      },
+      "teams": {
+        "home": {
+          "id": 275,
+          "name": "Stjarnan",
+          "logo": "https://media.api-sports.io/football/teams/275.png"
+        },
+        "away": {
+          "id": 267,
+          "name": "Fylkir",
+          "logo": "https://media.api-sports.io/football/teams/267.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 214764,
+        "referee": null,
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T22:30:00+03:00",
+        "timestamp": 1592249400,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": null,
+          "name": "Estadio Heliodoro Rodríguez Lopéz",
+          "city": "Tenerife"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 141,
+        "name": "Segunda Division",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/141.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2019,
+        "round": "Regular Season - 33"
+      },
+      "teams": {
+        "home": {
+          "id": 719,
+          "name": "Tenerife",
+          "logo": "https://media.api-sports.io/football/teams/719.png"
+        },
+        "away": {
+          "id": 535,
+          "name": "Malaga",
+          "logo": "https://media.api-sports.io/football/teams/535.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 214304,
+        "referee": "César Soto",
+        "timezone": "Africa/Addis_Ababa",
+        "date": "2020-06-15T23:00:00+03:00",
+        "timestamp": 1592251200,
+        "periods": {
+          "first": null,
+          "second": null
+        },
+        "venue": {
+          "id": 1489,
+          "name": "Estadio Benito Villamarín",
+          "city": "Sevilla"
+        },
+        "status": {
+          "long": "Not Started",
+          "short": "NS",
+          "elapsed": null
+        }
+      },
+      "league": {
+        "id": 140,
+        "name": "Primera Division",
+        "country": "Spain",
+        "logo": "https://media.api-sports.io/football/leagues/140.png",
+        "flag": "https://media.api-sports.io/flags/es.svg",
+        "season": 2019,
+        "round": "Regular Season - 29"
+      },
+      "teams": {
+        "home": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png"
+        },
+        "away": {
+          "id": 715,
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        }
+      },
+      "goals": {
+        "home": null,
+        "away": null
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": null,
+          "away": null
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}
